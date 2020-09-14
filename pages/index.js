@@ -12,7 +12,7 @@ const App = () => {
     <>
       <div>
         <h1>Friends Bill Calculator</h1>
-        <h3>Calculate easely how much have to pay everyone!</h3>
+        <h3>Easily calculate how much have to pay each one!</h3>
         <Section title="Total" max={10000} {...total} />
         <Section title="Persons" max={100} {...persons} />
         <Section title="Tip" max={100}{...tipPercentage} />

@@ -16,7 +16,7 @@ const Result = ({total = 0, persons = 0, tipPercentage = 0}) => {
   
   return (
     <>
-      <p>Everyone have to pay: {result} </p>
+      <p>Each one have to pay: {result} </p>
     </>
   )
 }
